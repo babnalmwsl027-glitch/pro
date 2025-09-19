@@ -1,1 +1,21 @@
-{"next_id": 1, "sessions": []}
+{
+    "next_id": 4,
+    "sessions": [
+        {
+            "file_name": "sessions_9647812001948.session",
+            "start_time": "2025-09-20T00:11:29.111793+03:00",
+            "temporary": true,
+            "user_id": 6590787769,
+            "end_time": "2025-09-20T04:11:29.111802+03:00",
+            "id": 2
+        },
+        {
+            "file_name": "sessions_9647876058915.session",
+            "start_time": "2025-09-20T00:27:02.287386+03:00",
+            "temporary": true,
+            "user_id": 6590787769,
+            "end_time": "2025-09-20T04:27:02.287398+03:00",
+            "id": 3
+        }
+    ]
+}
